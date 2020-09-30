@@ -1,1 +1,1 @@
-# Web
+# NOGOZO Website using Django
